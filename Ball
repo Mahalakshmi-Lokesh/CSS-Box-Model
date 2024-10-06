@@ -1,5 +1,0 @@
-git add ball.html
-git add *.html  # Adds all .html files
-git commit -m "Add multiple files"
-git push origin main  # or master, depending on your branch
-
